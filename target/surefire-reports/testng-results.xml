@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="37" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="37" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+      <class name="qaclickacademy.Maven.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomate()[pri:0, instance:qaclickacademy.Maven.SeleniumTest@1f57539]" name="BrowserAutomate" duration-ms="1" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomate -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:qaclickacademy.Maven.SeleniumTest@1f57539]" name="ElementsUI" duration-ms="0" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- qaclickacademy.Maven.SeleniumTest -->
+      <class name="qaclickacademy.Maven.APPIUMTest">
+        <test-method status="PASS" signature="AndroidAppOpen()[pri:0, instance:qaclickacademy.Maven.APPIUMTest@6acdbdf5]" name="AndroidAppOpen" duration-ms="3" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppOpen -->
+        <test-method status="PASS" signature="iOSappOpen()[pri:0, instance:qaclickacademy.Maven.APPIUMTest@6acdbdf5]" name="iOSappOpen" duration-ms="0" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSappOpen -->
+      </class> <!-- qaclickacademy.Maven.APPIUMTest -->
+      <class name="qaclickacademy.Maven.RESTAPITest">
+        <test-method status="PASS" signature="JiraBugdelete()[pri:0, instance:qaclickacademy.Maven.RESTAPITest@e320068]" name="JiraBugdelete" duration-ms="0" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraBugdelete -->
+        <test-method status="PASS" signature="TweeterDelete()[pri:0, instance:qaclickacademy.Maven.RESTAPITest@e320068]" name="TweeterDelete" duration-ms="0" started-at="2022-02-26T15:04:56 IST" finished-at="2022-02-26T15:04:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TweeterDelete -->
+      </class> <!-- qaclickacademy.Maven.RESTAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
